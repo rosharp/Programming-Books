@@ -1,5 +1,4 @@
-#+title: Readme
-* Programming Books
+#+title: Programming Books
 
 Репозиторий с книгами по программированию на русском и английском языках.
 
