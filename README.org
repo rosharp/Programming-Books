@@ -1,0 +1,53 @@
+#+title: Readme
+* Programming Books
+
+Репозиторий с книгами по программированию на русском и английском языках.
+
+** Индекс
+
+*** Algorithms
+- Grokking Algorithms - An illustrated guide for programmers and other curious people
+- McMillan M. - Data Structures and Algorithms with JavaScript
+*** DevOps
+- Agarwal G. - Modern DevOps Practices
+- Vijayakumar Th. - Practical Azure Application Development
+*** Emacs
+- Petersen M. - Mastering Emacs (2022)
+*** Languages
+**** Rust
+- Kerkour S. - Black Hat Rust. Rust programming language
+- Rust for Rustaceans
+- Yao R. - Rust Programming. For Beginners, Quick Start Guide
+**** TypeScript
+- Goldberg J. - Learning TypeScript. Using Type-Safe JavaScript (2022)
+- TypeScript for Beginners - The Ultimate Guide
+- Файн Я., Моисеев А. - TypeScript быстро (Для профессионалов) (2021)
+- Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) (2021)
+*** Linux
+- Negus C. - Linux Bible, 10th Edition (2020)
+**** RHEL
+- Jang М, Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300) (2016)
+- Fiona Allen et al. - Red Hat Enterprise Linux 8.0 (RH134) - Red Hat System Administration II_ru (2019)
+- Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I by Fiona Allen_ru
+- Sander van Vugt - Red Hat Enterprise Linux 6 Administration Real World Skills for Red Hat Administrators (2013)
+- Jang M., Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 7th Edition (2016)
+- Shotts W. E. Jr. - The Linux Command Line - A Complete Introduction (2012)
+**** Git
+- Фишерман Л. - Git. Практическое руководство (2021)
+*** SQL
+- Болье А. - Изучаем SQL. Генерация, выборка и обработка данных, 3-издание (2021)
+*** Testing
+- Fields J. - Working Effectively with Unit Tests (2015)
+- Хориков В. - Принципы юнит-тестирования (Для профессионалов) (2021)
+- Грегори Дж., Криспин Л. - Agile-тестирование. Обучающий курс для всей команды (2019)
+- Кент Б. - Экстремальное программирование. Разработка через тестирование (Библиотека программиста) (2017)
+- Куликов С. - Тестирование программного обеспечения. Базовый курс. 3-e издание (2020)
+- Назина О.Е. - Что такое тестирование. Курс молодого бойца (2022)
+- Парасрам Ш. и др. - Kali Linux. Тестирование на проникновение и безопасность (Для профессионалов) (2020)
+*** Web Development
+- WebDev/Irvine D. Mastering React Test-Driven Development. 2nd Edition (2022)
+- Ninja Squad - Become A Ninja With Angular (2022)
+- Choi D. - Full-Stack React, TypeScript, and Node (2020)
+- Rippon C. - Learn React with TypeScript 3 (2018)
+- Скотт А. - Разработка на JavaScript (Бестселлеры O'Reilly) (2021)
+- Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) (2021)
