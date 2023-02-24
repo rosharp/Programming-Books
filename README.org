@@ -3,10 +3,15 @@
 Репозиторий с книгами по программированию на русском и английском языках.
 
 ** Индекс
-
 *** Algorithms
 - Grokking Algorithms - An illustrated guide for programmers and other curious people
 - McMillan M. - Data Structures and Algorithms with JavaScript
+- Sammie Bae - JavaScript Data Structures and Algorithms (2019)
+- Альтхофф К. - Computer Science для программиста-самоучки. Все, что нужно знать о структурах данных и алгоритмах (Библиотека программиста) (2023)
+- Луридас П. - Алгоритмы. Самый краткий и понятный курс (Библиотека MIT) (2022)
+- Кнут Д. - Искусство программирования (2018)
+- Рафгарден Т. - Совершенный алгоритм (Библиотека программиста) (2019-2021)
+- Солтис М. - Введение в анализ алгоритмов (2019)
 *** DevOps
 - Agarwal G. - Modern DevOps Practices
 - Vijayakumar Th. - Practical Azure Application Development
@@ -36,7 +41,9 @@
 *** SQL
 - Болье А. - Изучаем SQL. Генерация, выборка и обработка данных, 3-издание (2021)
 *** Testing
+- Axelrod A. - Complete Guide to Test Automation (2018)
 - Fields J. - Working Effectively with Unit Tests (2015)
+- Humble J., Farley D. - Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2010)
 - Хориков В. - Принципы юнит-тестирования (Для профессионалов) (2021)
 - Грегори Дж., Криспин Л. - Agile-тестирование. Обучающий курс для всей команды (2019)
 - Кент Б. - Экстремальное программирование. Разработка через тестирование (Библиотека программиста) (2017)
