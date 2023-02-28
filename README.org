@@ -4,56 +4,66 @@
 
 ** Индекс
 *** Algorithms
-- Grokking Algorithms - An illustrated guide for programmers and other curious people
-- McMillan M. - Data Structures and Algorithms with JavaScript
-- Sammie Bae - JavaScript Data Structures and Algorithms (2019)
-- Альтхофф К. - Computer Science для программиста-самоучки. Все, что нужно знать о структурах данных и алгоритмах (Библиотека программиста) (2023)
-- Луридас П. - Алгоритмы. Самый краткий и понятный курс (Библиотека MIT) (2022)
-- Кнут Д. - Искусство программирования (2018)
-- Рафгарден Т. - Совершенный алгоритм (Библиотека программиста) (2019-2021)
-- Солтис М. - Введение в анализ алгоритмов (2019)
+1. Альтхофф К. - Computer Science для программиста-самоучки. Все, что нужно знать о структурах данных и алгоритмах (Библиотека программиста) - 2023
+2. Луридас П. - Алгоритмы. Самый краткий и понятный курс (Библиотека MIT) - 2022
+3. Кнут Д. - Искусство программирования - 2018
+4. Рафгарден Т. - Совершенный алгоритм (Библиотека программиста) - 2019-2021
+5. Солтис М. - Введение в анализ алгоритмов - 2019
+6. Grokking Algorithms - An illustrated guide for programmers and other curious people
+7. McMillan M. - Data Structures and Algorithms with JavaScript
+8. Sammie Bae - JavaScript Data Structures and Algorithms - 2019
 *** DevOps
-- Agarwal G. - Modern DevOps Practices
-- Vijayakumar Th. - Practical Azure Application Development
+1. Арундел Д., Домингус Д. - Kubernetes для DevOps. Развертывание, запуск и масштабирование в облаке (Бестселлеры O’Reilly) - 2020
+2. Вехен Дж. - Безопасный DevOps (Для профессионалов) - 2020
+3. Гифт Н., Берман К., Деза А., Георгиу Г. - Python и DevOps. Ключ к автоматизации Linux (Бестселлеры O’Reilly) - 2022
+4. Ким Д., Дебуа П., Уиллис Д., Хамбл Д. - Руководство по DevOps - 2018
+5. Форсгрен Н., Хамбл Д., Ким Д. - Ускоряйся! Наука DevOps - 2020
+6. Херинг М. - DevOps для современного предприятия - 2020
+7. Чоу Э. - Python для сетевых инженеров. Автоматизация сети, программирование и DevOps - 2023
+8. Agarwal G. - Modern DevOps Practices
+9. Kim G., Debois P., Willis J., Forsgren N. - DevOps Handbook, Second Edition
+10. Forsgren N., Humble J., Kim G.- Accelerate. The Science of DevOps - 2018
+11. Vijayakumar Th. - Practical Azure Application Development - 2017
+12. Vijayakumar Th. - Practical Azure Application Development
 *** Emacs
-- Petersen M. - Mastering Emacs (2022)
+1. Petersen M. - Mastering Emacs - 2022
 *** Languages
 **** Rust
-- Kerkour S. - Black Hat Rust. Rust programming language
-- Rust for Rustaceans
-- Yao R. - Rust Programming. For Beginners, Quick Start Guide
+1. Kerkour S. - Black Hat Rust. Rust programming language
+2. Rust for Rustaceans
+3. Yao R. - Rust Programming. For Beginners, Quick Start Guide
 **** TypeScript
-- Goldberg J. - Learning TypeScript. Using Type-Safe JavaScript (2022)
-- TypeScript for Beginners - The Ultimate Guide
-- Файн Я., Моисеев А. - TypeScript быстро (Для профессионалов) (2021)
-- Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) (2021)
+1. Файн Я., Моисеев А. - TypeScript быстро (Для профессионалов) - 2021
+2. Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) - 2021
+3. Goldberg J. - Learning TypeScript. Using Type-Safe JavaScript - 2022
+4. TypeScript for Beginners - The Ultimate Guide
 *** Linux
-- Negus C. - Linux Bible, 10th Edition (2020)
+1. Negus C. - Linux Bible, 10th Edition - 2020
 **** RHEL
-- Jang М, Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300) (2016)
-- Fiona Allen et al. - Red Hat Enterprise Linux 8.0 (RH134) - Red Hat System Administration II_ru (2019)
-- Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I by Fiona Allen_ru
-- Sander van Vugt - Red Hat Enterprise Linux 6 Administration Real World Skills for Red Hat Administrators (2013)
-- Jang M., Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 7th Edition (2016)
-- Shotts W. E. Jr. - The Linux Command Line - A Complete Introduction (2012)
+1. Jang М, Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300) - 2016
+2. Fiona Allen et al. - Red Hat Enterprise Linux 8.0 (RH134) - Red Hat System Administration II_ru - 2019
+3. Red Hat Enterprise Linux 8.0 (RH124) - Red Hat System Administration I by Fiona Allen_ru
+4. Sander van Vugt - Red Hat Enterprise Linux 6 Administration Real World Skills for Red Hat Administrators - 2013
+5. Jang M., Orsaria A. - RHCSA-RHCE Red Hat Linux Certification Study Guide (Exams EX200 & EX300), 7th Edition (2016)
+6. Shotts W. E. Jr. - The Linux Command Line - A Complete Introduction - 2012
 **** Git
-- Фишерман Л. - Git. Практическое руководство (2021)
+1. Фишерман Л. - Git. Практическое руководство - 2021
 *** SQL
-- Болье А. - Изучаем SQL. Генерация, выборка и обработка данных, 3-издание (2021)
+1. Болье А. - Изучаем SQL. Генерация, выборка и обработка данных, 3-издание - 2021
 *** Testing
-- Axelrod A. - Complete Guide to Test Automation (2018)
-- Fields J. - Working Effectively with Unit Tests (2015)
-- Humble J., Farley D. - Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation (2010)
-- Хориков В. - Принципы юнит-тестирования (Для профессионалов) (2021)
-- Грегори Дж., Криспин Л. - Agile-тестирование. Обучающий курс для всей команды (2019)
-- Кент Б. - Экстремальное программирование. Разработка через тестирование (Библиотека программиста) (2017)
-- Куликов С. - Тестирование программного обеспечения. Базовый курс. 3-e издание (2020)
-- Назина О.Е. - Что такое тестирование. Курс молодого бойца (2022)
-- Парасрам Ш. и др. - Kali Linux. Тестирование на проникновение и безопасность (Для профессионалов) (2020)
+1. Хориков В. - Принципы юнит-тестирования (Для профессионалов) - 2021
+2. Грегори Дж., Криспин Л. - Agile-тестирование. Обучающий курс для всей команды - 2019
+3. Кент Б. - Экстремальное программирование. Разработка через тестирование (Библиотека программиста) - 2017
+4. Куликов С. - Тестирование программного обеспечения. Базовый курс. 3-e издание - 2020
+5. Назина О.Е. - Что такое тестирование. Курс молодого бойца - 2022
+6. Парасрам Ш. и др. - Kali Linux. Тестирование на проникновение и безопасность (Для профессионалов) - 2020
+7. Axelrod A. - Complete Guide to Test Automation - 2018
+8. Fields J. - Working Effectively with Unit Tests - 2015
+9. Humble J., Farley D. - Continuous Delivery - Reliable Software Releases Through Build, Test And Deployment Automation - 2010
 *** Web Development
-- WebDev/Irvine D. Mastering React Test-Driven Development. 2nd Edition (2022)
-- Ninja Squad - Become A Ninja With Angular (2022)
-- Choi D. - Full-Stack React, TypeScript, and Node (2020)
-- Rippon C. - Learn React with TypeScript 3 (2018)
-- Скотт А. - Разработка на JavaScript (Бестселлеры O'Reilly) (2021)
-- Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) (2021)
+1. Скотт А. - Разработка на JavaScript (Бестселлеры O'Reilly) - 2021
+2. Черный Б. - Профессиональный TypeScript (Бестселлеры O'Reilly) - 2021
+3. Irvine D. Mastering React Test-Driven Development. 2nd Edition - 2022
+4. Ninja Squad - Become A Ninja With Angular - 2022
+5. Choi D. - Full-Stack React, TypeScript, and Node - 2020
+6. Rippon C. - Learn React with TypeScript 3 - 2018
