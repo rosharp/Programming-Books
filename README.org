@@ -24,7 +24,6 @@
 9. Kim G., Debois P., Willis J., Forsgren N. - DevOps Handbook, Second Edition
 10. Forsgren N., Humble J., Kim G.- Accelerate. The Science of DevOps - 2018
 11. Vijayakumar Th. - Practical Azure Application Development - 2017
-12. Vijayakumar Th. - Practical Azure Application Development
 *** Emacs
 1. Petersen M. - Mastering Emacs - 2022
 *** Languages
